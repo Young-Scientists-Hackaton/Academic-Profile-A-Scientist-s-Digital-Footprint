@@ -42,3 +42,9 @@ The Sirius University is rapidly expanding, attracting talented students, scient
   - The project is launched using Docker.
 
 ---
+
+### Rules:
+- **At the time of the start of development, share the project's git repository with experts.**
+- **Upload the code to your git after stop-coding.**
+- **Upload the presentation to your git.**
+- **Provide the code with a brief description of how to deploy the proposed solution.**
